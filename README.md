@@ -27,7 +27,7 @@ Built as a Streamlit app with a dark-themed UI, gauge charts, and verdict cards,
 Python · pandas · scikit-learn · imbalanced-learn (SMOTE) · Streamlit
 
 ## 📁 Structure
-'''
+```
 ├── Fake_News_Detection.ipynb   # EDA, pipeline, and model development
 ├── app.py                      # Streamlit app
 ├── best_model.joblib           # trained Logistic Regression model
@@ -35,7 +35,7 @@ Python · pandas · scikit-learn · imbalanced-learn (SMOTE) · Streamlit
 ├── chi2_selector.joblib        # feature selector
 ├── requirements.txt
 └── README.md
-'''
+```
 ## 🚀 Run it locally
 ```bash
 git clone https://github.com/Alvy-codes/fake-news-detection.git
